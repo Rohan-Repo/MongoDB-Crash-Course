@@ -1,5 +1,5 @@
 # MongoDB-Crash-Course
-A Repo for Adding Info for two MongoDB Videos 
+A Repo for Adding Info taken from two MongoDB Videos 
 
 Data/Values taken Based upon the below mentioned Videos:
 1. https://www.youtube.com/watch?v=ofme2o29ngU
